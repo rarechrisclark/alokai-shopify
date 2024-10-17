@@ -15,13 +15,13 @@ Vue Storefront 2 (Alokai) with Shopify integration
 
 ## USAGE
 
-### Initial Setup
+### 1. Initial Setup
 
 1. Run `cp .env.example .env` to create a `.env` file (make sure to fill in the required variables)
 2. Run `nvm use lts/gallium` to ensure you are using the correct node version (v16.20.2)
 3. Run `yarn install` to install the dependencies
 
-### Local Development
+### 2. Local Development
 
 > [!NOTE]
 > Make sure you have completed the steps outlined in 'Initial Setup' first.
@@ -29,7 +29,7 @@ Vue Storefront 2 (Alokai) with Shopify integration
 1. Run `yarn dev` to start the development server
 2. Open `http://localhost:3001` in your browser to view the store
 
-### Production Build
+### 3. Production Build
 
 1. Run `yarn prod` to build the production files and start the production server
 2. Uncomment the relevant production variables in the `.env` file
