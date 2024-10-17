@@ -1,0 +1,14 @@
+# Dependencies
+node_modules
+
+# Build
+dist
+.nuxt
+
+# Environment
+.env
+
+# User and OS
+.idea
+.vscode
+.DS_Store

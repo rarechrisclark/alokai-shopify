@@ -1,0 +1,18 @@
+# dependencies
+node_modules
+package.json
+yarn.lock
+
+# build
+.nuxt
+
+# config
+.prettierrc.json
+tsconfig.json
+
+# public assets
+static
+
+# other
+README.md
+LICENSE
